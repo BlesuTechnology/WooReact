@@ -1,0 +1,13 @@
+{
+  "name": "wooreact",
+  "version": "1.0.18",
+  "devDependencies": {
+    "@wordpress/dom-ready": "^4.4.0",
+    "@wordpress/element": "^6.4.0",
+    "semver": "^7.6.0",
+    "shelljs": "^0.8.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
